@@ -1,5 +1,5 @@
 export type noteData = {
-  id?: string;
+  id: string;
   title: string;
   content: string;
 };
